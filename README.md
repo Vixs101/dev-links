@@ -1,6 +1,9 @@
 # Task
 
-Building a Full-Stack Link-Sharing ApplicationTask OverviewYour challenge is to build out a link-sharing application and ensure it matches the provided design as closely as possible. You can use Next.js and TS to complete this challenge. The objective is to deliver a pixel-perfect implementation based on the design specifications.Deliverables:
+Building a Full-Stack Link-Sharing Application.
+Task Overview: Your challenge is to build out a link-sharing application and ensure it matches the provided design as closely as possible. You can use Next.js and TS to complete this challenge. The objective is to deliver a pixel-perfect implementation based on the design specifications.
+
+Deliverables:
 
 ## Feature Implementation
 
