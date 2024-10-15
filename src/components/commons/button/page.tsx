@@ -1,11 +1,12 @@
 import React from "react";
+import { Button } from "@/components/ui/button";
 
-export default function Buttons() {
+export default function CustomButton() {
     return (
         <>
-            <button>
+            <Button>
                 button
-            </button>
+            </Button>
         </>
     )
 };
